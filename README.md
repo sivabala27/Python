@@ -1,1 +1,1 @@
-# Python
+# python sample exercises
