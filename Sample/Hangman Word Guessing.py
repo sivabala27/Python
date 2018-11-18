@@ -1,7 +1,7 @@
 import random
 
 phone=['samsung','apple','nokia','sony','lg','htc','motorola','huawei','xaiomi']
-print("***Word Guess - Mobile Brands***\nYOU have 5 Chance to find the missing letter")
+print("***Word Guess - Mobile Brands***\nYOU have 7 Chance to find the missing letter")
 ans=phone[random.randint(0,len(phone)-1)]
 
 nan=ans
